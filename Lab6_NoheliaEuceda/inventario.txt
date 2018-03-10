@@ -1,0 +1,2 @@
+Capuccino  Tamaño 12.0 Precio de Costo  15.0 Precio de Venta 20.0 Tipo Café Estado Caliente
+Florena;15.0;20.0;Tipo Café
